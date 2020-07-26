@@ -1,2 +1,2 @@
 # QGIS_Plugins
-Simple custom plugins for QGIS
+Simple custom C++ plugins for QGIS.
